@@ -1,4 +1,4 @@
-<mxfile modified="2021-08-20T20:32:27.370Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="sWWomA-GLVjm0krN1U3m" version="14.9.6" type="github">
+<mxfile modified="2021-08-20T22:35:44.495Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="bAq_cEwU_lmQVNp01rbG" version="14.9.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1517" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -150,8 +150,8 @@
         <mxCell id="sa49QsE0EUEzj36IuMwf-53" value="8." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="810" y="-460" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sa49QsE0EUEzj36IuMwf-56" value="Scheduled EventBridge" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-390" width="78" height="78" as="geometry" />
+        <mxCell id="sa49QsE0EUEzj36IuMwf-56" value="&lt;div&gt;Scheduled EventBridge &lt;br&gt;&lt;/div&gt;&lt;div&gt;Triggers Step Function&lt;br&gt;&lt;/div&gt;" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-280" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="sa49QsE0EUEzj36IuMwf-60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
