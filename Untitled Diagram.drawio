@@ -1,14 +1,14 @@
-<mxfile modified="2021-08-20T20:13:17.903Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="ujdjXzDf4qt1f_uJd4By" version="14.9.6" type="github">
+<mxfile modified="2021-08-20T20:32:27.370Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="sWWomA-GLVjm0krN1U3m" version="14.9.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1517" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sa49QsE0EUEzj36IuMwf-55" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-810" width="900" height="720" as="geometry" />
-        </mxCell>
         <mxCell id="sa49QsE0EUEzj36IuMwf-57" value="AWS Step Functions workflow" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_step_functions_workflow;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="-765" width="840" height="635" as="geometry" />
+        </mxCell>
+        <mxCell id="sa49QsE0EUEzj36IuMwf-55" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-810" width="900" height="720" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-177" value="Amazon S3&lt;br&gt;Bucket&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="490" y="-730" width="75" height="78" as="geometry" />
@@ -152,6 +152,15 @@
         </mxCell>
         <mxCell id="sa49QsE0EUEzj36IuMwf-56" value="Scheduled EventBridge" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" vertex="1" parent="1">
           <mxGeometry x="90" y="-390" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sa49QsE0EUEzj36IuMwf-60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="764.75" y="-685.25" as="sourcePoint" />
+            <mxPoint x="800" y="-610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="-685" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
